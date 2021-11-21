@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
   s.name             = "FontAwesome.swift"
-  s.version          = "1.9.1"
+  s.version          = "v1.9.9-panda"
   s.summary          = "Use Font Awesome in your Swift projects"
-  s.homepage         = "https://github.com/thii/FontAwesome.swift"
+  s.homepage         = "https://github.com/Nodalailama/FontAwesome.swift"
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { "Thi Doan" => "t@thi.im" }
-  s.source           = { :git => "https://github.com/thii/FontAwesome.swift.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/thii/Nodalailama.swift.git", :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
   s.tvos.deployment_target = '9.0'
